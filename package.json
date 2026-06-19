@@ -1,0 +1,14 @@
+{
+  "name": "euphony-launch",
+  "version": "1.0.0",
+  "description": "Euphony Launch PWA - Time perfect streaming to your DAC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "sharp": "^0.35.1"
+  }
+}
